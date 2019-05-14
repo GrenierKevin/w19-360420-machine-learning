@@ -1,8 +1,0 @@
-*.aux
-*.log
-*.out
-org/
-DataSet.class
-DataPoint.class
-KNNClassifier.class
-kNNMain.class
